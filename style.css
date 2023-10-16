@@ -1,19 +1,36 @@
 body{
     background-color: aliceblue
-},99)
+}
 h1{
     font-size: 60px;
     color: black;
-    text-align:center:
+    text-align: center;
 }
 p{
     font-size: 30px;
-    color: black
+    color: black;
     text-align: justify;
 }
 img{
-    width: 450kpx;
-    height:360px;px;
+    width: 450px;
+    height: 340px;
     margin: 30px;
-    margin-left: 130px;
+    margin-left: 30px;
+}
+.cabecalho{
+    background-color:rgb(243, 25, 127);
+    display: flex;
+}
+.logocabecalho{
+    width: 100px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 100px;
+}
+.item_lista_cabecalho{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding-left: 30px;
+    list-style: none;
 }
